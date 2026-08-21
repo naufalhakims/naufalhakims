@@ -17,11 +17,12 @@ I'm a final-year Information Technology student at Institut Teknologi Sepuluh No
 - 📊 GPA: **3.81 / 4.0**
 - 💬 Open to opportunities involving software engineering, data engineering, analytics, and AI
 
-## Let's connect
+## GitHub Stats
 
-I'm always happy to discuss software engineering, data, applied AI, or opportunities to build useful systems together.
+<div align="center">
 
-- Email: [naufalsyafi4@gmail.com](mailto:naufalsyafi4@gmail.com)
-- LinkedIn: [linkedin.com/in/naufal-syafi-hakim](https://www.linkedin.com/in/naufal-syafi-hakim)
-- GitHub: [github.com/naufalhakims](https://github.com/naufalhakims)
-- Instagram: [@nplhkm._](https://www.instagram.com/nplhkm._/)
+![Naufal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naufalhakims\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalhakims\&layout=compact\&hide_border=true)
+
+</div>
